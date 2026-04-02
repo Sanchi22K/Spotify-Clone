@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- White circle -->
+  <circle cx="8" cy="8" r="8" fill="#ffffffff"/>
+
+  <!-- Black play button -->
+  <polygon points="6,4 12,8 6,12" fill="#000000ff"/>
+</svg>
